@@ -1,0 +1,5 @@
+Three observations
+
+1. Majority players are male (84%) and they made the majority purchase, $1,967, comparing to $412 total purchase combined from other genders (female and non-disclosed).
+2. Players aged between 20-24 represent 44% of the total popilation, the most major group among all. And this age group made the more purchase as well, $1.1K.
+3. There are three items all in both most popular and most profitable buckets, item 179, 82, and 145. However, among these popular items or profitable items, the numbers of purchases and total purchase values are not largely differentiated. The total purchase ranges from 8-12 and total purchase value ranges from $34 - $50 (excluding item 19 due to the low item price).
