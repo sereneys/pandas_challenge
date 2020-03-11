@@ -1,0 +1,7 @@
+Observations:
+
+1. Charters schools overall outperformed District schools in all perspective. All top 5 performers schools are Charters while all bottom 5 performers school are Distrcit schools. Charters school math passing rate was largely exceeded that of District schools (93.6% vs. 66.5%).
+
+2. School performances (meaured by passing rates) are not largely differentiated between small sized (<1000 students) and medium sized(1000-2000 students) schools. However, both their performances largely exceeded large sized schools (2000-5000 students).
+
+3. The first two spending groups (<$585 per student and $585-$615 per studend) schools' performances are close. The results for higher spending groups (>$615 per student) is surprisingly not better but lower than the first two groups.
